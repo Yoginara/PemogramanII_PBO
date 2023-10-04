@@ -1,0 +1,7 @@
+C:\PemogramanII_PBO\Pertemuan02\Pratikum\P2_1_714220043\P2_1_714220043\bin\Debug\P2_1_714220043.exe.config
+C:\PemogramanII_PBO\Pertemuan02\Pratikum\P2_1_714220043\P2_1_714220043\bin\Debug\P2_1_714220043.exe
+C:\PemogramanII_PBO\Pertemuan02\Pratikum\P2_1_714220043\P2_1_714220043\bin\Debug\P2_1_714220043.pdb
+C:\PemogramanII_PBO\Pertemuan02\Pratikum\P2_1_714220043\P2_1_714220043\obj\Debug\P2_1_714220043.csproj.AssemblyReference.cache
+C:\PemogramanII_PBO\Pertemuan02\Pratikum\P2_1_714220043\P2_1_714220043\obj\Debug\P2_1_714220043.csproj.CoreCompileInputs.cache
+C:\PemogramanII_PBO\Pertemuan02\Pratikum\P2_1_714220043\P2_1_714220043\obj\Debug\P2_1_714220043.exe
+C:\PemogramanII_PBO\Pertemuan02\Pratikum\P2_1_714220043\P2_1_714220043\obj\Debug\P2_1_714220043.pdb
