@@ -13,7 +13,7 @@ namespace P2_1_714220043
             // Angka pertama
             Console.Write("Masukkan angka pertama: ");
             double angkaPertama = Convert.ToDouble(Console.ReadLine());
-
+                
             // Angka kedua
             Console.Write("Masukkan angka kedua: ");
             double angkaKedua = Convert.ToDouble(Console.ReadLine());
