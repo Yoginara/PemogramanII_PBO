@@ -1,0 +1,24 @@
+Bagian I
+14.Jelaskan mengapa pesan kesalahan tersebut muncul! (Jangan lanjut ke tahap selanjutnya jika tahap ke-14 ini masih error)
+Jawaban :
+Karena pada "myType" di kelas "Product_714220043" dideklarasikan sebagai protected. Modifikator akses protected membatasi akses ke anggota hanya dalam kelas yang sama atau dari kelas turunan. Karena "ProductTest_714220043" bukan turunan dari Product_714220043, ia tidak dapat mengakses langsung yang bersifat "protected".
+
+19.Perhatikan hasil yang muncul dilayar, kenapa bisa seperti itu?
+Jawaban :
+Karena pada saat membuat objek "Product_714220043" pada "ProductTest_714220043", properti "MyType" dari objek tersebut belum diatur dengan nilai apa pun. Oleh karena itu, nilai default yang akan diberikan oleh sistem adalah "null" untuk tipe data string.
+
+24.Jelaskan mengapa yang muncul dilayar adalah kata tersebut!
+Jawaban :
+Pada class "Product_714220043" terdapat dua properti pribadi yaitu "myType" dan "myTitle". Kemudian, ada properti publik "MyType" yang dapat diakses dari luar kelas. Properti ini memiliki setter yang dapat mengatur nilai dari myType,dan pada class "Product_714220043" terdapat objek "myProduct", dan kemudian mengatur nilai properti "MyType" menjadi "DVD" sehingga outputnya adalah "DVD".
+
+Bagian II
+
+8.Jelaskan mengapa title dari buku tersebut tidak muncul! Apakah istilah dalam konsep OOP yang mendefinisikan fenomena seperti ini?
+Jawaban :
+Karena dalam konstruktor "Book_714220043", parameter "title" tidak digunakan untuk menginisialisasi properti "MyTitle", melainkan hanya menginisialisasi properti "pageCount".Oleh karena itu, properti "MyTitle" tidak pernah mendapatkan nilai dan akan tetap null atau string kosong. Inilah sebabnya mengapa title dari buku tersebut tidak muncul ketika dicetak di code kedua.
+Istilah dalam konsep OOP yang dapat menjelaskan fenomena seperti ini adalah "encapsulation" dimana properti dan metode yang terkait dengan suatu objek diatur bersama di dalam suatu kelas.
+
+
+12.Perhatikan hasil yang muncul dilayar, jelaskan mengapa saat ini judul buku tampil pada output!
+Jawaban :
+karena telah ada perbaikan pada inisialisasi properti "MyTitle" di kelas turunan "Book_714220043".
