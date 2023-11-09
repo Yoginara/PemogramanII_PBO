@@ -1,0 +1,10 @@
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\bin\Debug\P7_1_714220043.exe.config
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\bin\Debug\P7_1_714220043.exe
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\bin\Debug\P7_1_714220043.pdb
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\obj\Debug\P7_1_714220043.csproj.AssemblyReference.cache
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\obj\Debug\P7_1_714220043.Form1.resources
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\obj\Debug\P7_1_714220043.Properties.Resources.resources
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\obj\Debug\P7_1_714220043.csproj.GenerateResource.cache
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\obj\Debug\P7_1_714220043.csproj.CoreCompileInputs.cache
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\obj\Debug\P7_1_714220043.exe
+C:\PBOII\Pertemuan07\P7_1_714220043\P7_1_714220043\obj\Debug\P7_1_714220043.pdb
